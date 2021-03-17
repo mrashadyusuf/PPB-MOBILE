@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFIrstApp1</string>
+    <string name="button_label">send</string>
+    <string name="message_hint">Enter A Message</string>
+</resources>
